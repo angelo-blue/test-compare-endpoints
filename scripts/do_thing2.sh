@@ -1,0 +1,1 @@
+curl localhost:8080/rest/stub2?id=$1
